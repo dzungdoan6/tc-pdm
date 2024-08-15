@@ -13,6 +13,7 @@ This is the Pytorch implementation of the paper **TC-PDM: Temporally Consistent 
     ```
 * Install remaining packages
     ```
+    cd [root]/tc-pdm
     pip install -r requirements.txt
     ```
 

@@ -1,6 +1,9 @@
 # About
 This is the Pytorch implementation of the paper **[TC-PDM: Temporally Consistent Patch Diffusion Models for Infrared-to-Visible Video Translation](https://arxiv.org/abs/2408.14227)**
 
+<p align="center">
+  <img src="https://github.com/dzungdoan6/tc-pdm/blob/main/demo.gif" alt="animated" />
+</p>
 
 # Installation
 * Clone this repo, suppose the source code is saved in `[root]/tc-pdm`

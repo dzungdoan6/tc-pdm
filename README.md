@@ -1,5 +1,7 @@
 # About
-This is the Pytorch implementation of the paper **TC-PDM: Temporally Consistent Patch Diffusion Models for Infrared-to-Visible Video Translation**
+This is the Pytorch implementation of the paper **[TC-PDM: Temporally Consistent Patch Diffusion Models for Infrared-to-Visible Video Translation](https://arxiv.org/abs/2408.14227)**
+
+
 # Installation
 * Clone this repo, suppose the source code is saved in `[root]/tc-pdm`
 * Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) environment
